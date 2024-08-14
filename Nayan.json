@@ -7,15 +7,15 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "izu",
-  "PREFIX": ".",
+  "BOTNAME": "nayan-bot",
+  "PREFIX": "/",
   "OPERATOR": [
-    "61564523601825",
-    ""
+    "100014896964436",
+    "61564523601825"
   ],
   "ADMINBOT": [
     "100045695363800",
-    "61564523601825"
+    ""
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
