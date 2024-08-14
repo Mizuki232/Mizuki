@@ -1,7 +1,9 @@
-{
+Log in
+You said:
+Fix problem this {
   "author": "Nayan",
   "autoRestart": true,
-  "acceptPending": false,
+  "accpetPending": false,
   "developermode": false,
   "language": "en",
   "notification": false,
@@ -12,7 +14,7 @@
   "OPERATOR": [
     "61564523601825",
     "",
-    ""
+"",
   ],
   "ADMINBOT": [
     "100045695363800",
@@ -22,7 +24,7 @@
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
-  "note": "Make sure that the bot name you entered is all lowercase.",
-  "notice": "Don't change the author name and owner UID; otherwise, the bot will not work.",
-  "notice2": "If you use email and password, set saveState to false; otherwise, set saveState to true."
+  "note": "make sure that the bot name you entered is all lowercase",
+  "notice": "dont cng author name and owner uid. otherwise bot not working",
+  "notice2": "if you run use email and password, use saveState false; otherwise, use saveState true"
 }
